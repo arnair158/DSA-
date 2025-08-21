@@ -118,7 +118,7 @@ int main() {
     int choice;
 
     do {
-        printf("\n==== Browser Menu ====\n");
+        printf("\nBrowser Menu\n");
         printf("1. Open New Page\n");
         printf("2. Next Tab\n");
         printf("3. Previous Tab\n");
